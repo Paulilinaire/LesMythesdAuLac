@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="7e201dbb-1f0b-4839-8032-cc775f16eba3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/BonusCapacity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Capacity.java" afterDir="false" />
@@ -34,6 +35,8 @@
 =======
     <list default="true" id="7e201dbb-1f0b-4839-8032-cc775f16eba3" name="Changes" comment="" />
 >>>>>>> 8e1d05144e99204c204b7df8a185508ac02aeaaf
+=======
+>>>>>>> 2f943457e32c7dbc408fca98cac0faac1423397a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,14 +52,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
+
   <component name="ProjectId" id="2Z83kLnwZnNCz1lom1qRFV4zlHm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
@@ -108,6 +110,9 @@
       </list>
     </recent_temporary>
   </component>
+=======
+
+>>>>>>> 2f943457e32c7dbc408fca98cac0faac1423397a
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -117,12 +122,17 @@
       <option name="presentableId" value="Default" />
       <updated>1701790021492</updated>
       <workItem from="1701790022540" duration="216000" />
+<<<<<<< HEAD
       <workItem from="1701790291035" duration="2858000" />
       <workItem from="1701848819463" duration="18585000" />
+=======
+
+>>>>>>> 2f943457e32c7dbc408fca98cac0faac1423397a
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
 </project>
