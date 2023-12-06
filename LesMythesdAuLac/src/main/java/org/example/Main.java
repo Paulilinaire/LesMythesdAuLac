@@ -1,6 +1,15 @@
 package org.example;
 
 
+
+import org.example.classes.BuildingFactory;
+import org.example.classes.entity.Building;
+import org.example.classes.entity.Castle;
+import org.example.classes.entity.impl.personalisation.MediumSize;
+import org.example.classes.factory.impl.BarrackFactory;
+import org.example.classes.factory.impl.CastleFactory;
+import org.example.classes.factory.impl.ForgeFactory;
+
 import org.example.classes.entity.BonusCapacity;
 import org.example.classes.entity.Capacity;
 import org.example.classes.entity.Kingdom;
@@ -11,9 +20,16 @@ import org.example.classes.entity.impl.ArcherWeapon;
 import org.example.classes.entity.impl.Sorcerer;
 import org.example.classes.factory.impl.ArcherFactory;
 
+
 public class Main {
     private static final Kingdom myKingdom = Kingdom.getInstance();
     public static void main(String[] args) {
+        Castle castle = new Castle.Builder()
+                .size("Large")
+                .style("Classic")
+                .functional("defense")
+                .build();
+        System.out.println(castle);
 
         // Creating an ArcherWeapon
         Weapon archerWeapon = new ArcherWeapon.Builder()
@@ -44,4 +60,5 @@ public class Main {
 
 
     }
+
 }
