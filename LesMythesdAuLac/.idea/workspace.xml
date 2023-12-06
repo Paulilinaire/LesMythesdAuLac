@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7e201dbb-1f0b-4839-8032-cc775f16eba3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Barrack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Building.java" afterDir="false" />
@@ -32,6 +33,41 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/impl/Size.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/entity/impl/Style.java" beforeDir="false" />
     </list>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <list default="true" id="7e201dbb-1f0b-4839-8032-cc775f16eba3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/BonusCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Capacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Kingdom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/Archer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/ArcherBonusCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/ArcherCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/ArcherWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/Sorcerer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/SorcererBonusCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/SorcererCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/SorcererWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/Warrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/WarriorBonusCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/WarriorCapacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/entity/impl/WarriorWeapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/factory/impl/ArcherFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/factory/impl/SorcererFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/factory/impl/WarriorFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/classes/factory/CharacterFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/classes/factory/CharacterFactory.java" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="7e201dbb-1f0b-4839-8032-cc775f16eba3" name="Changes" comment="" />
+>>>>>>> 8e1d05144e99204c204b7df8a185508ac02aeaaf
+=======
+>>>>>>> 2f943457e32c7dbc408fca98cac0faac1423397a
+>>>>>>> 982d7b97635f32233d716e5761e568e4c9c57174
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,14 +84,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
+
   <component name="ProjectId" id="2Z83kLnwZnNCz1lom1qRFV4zlHm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrateur/Desktop/LesMythesdAuLac/LesMythesdAuLac&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -68,13 +117,22 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
+>>>>>>> 8e1d05144e99204c204b7df8a185508ac02aeaaf
   }
+<<<<<<< HEAD
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.classes.factory.impl" />
       <recent name="org.example.classes.impl" />
       <recent name="org.example.classes" />
+=======
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.classes.entity.impl" />
+      <recent name="org.example.classes.factory.impl" />
+>>>>>>> 982d7b97635f32233d716e5761e568e4c9c57174
     </key>
   </component>
   <component name="RunManager">
@@ -97,6 +155,12 @@
       </list>
     </recent_temporary>
   </component>
+<<<<<<< HEAD
+=======
+=======
+
+>>>>>>> 2f943457e32c7dbc408fca98cac0faac1423397a
+>>>>>>> 982d7b97635f32233d716e5761e568e4c9c57174
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -106,14 +170,24 @@
       <option name="presentableId" value="Default" />
       <updated>1701790021492</updated>
       <workItem from="1701790022540" duration="216000" />
+<<<<<<< HEAD
       <workItem from="1701851219499" duration="27000" />
       <workItem from="1701851273306" duration="3000" />
       <workItem from="1701851831012" duration="30000" />
       <workItem from="1701851880116" duration="14917000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1701790291035" duration="2858000" />
+      <workItem from="1701848819463" duration="18585000" />
+=======
+
+>>>>>>> 2f943457e32c7dbc408fca98cac0faac1423397a
+>>>>>>> 982d7b97635f32233d716e5761e568e4c9c57174
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+
 </project>
